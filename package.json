@@ -1,7 +1,7 @@
 {
-  "name": "raganork-md",
+  "name": "dechris_bot",
   "version": "5.0.0",
-  "description": "A light weight WhatsApp bot.",
+  "description": "ALL HAIL DECHRIS.",
   "scripts": {
     "start": "pm2 start . --attach --name Raganork"
   },
