@@ -17,7 +17,7 @@
             "required": false,
             "value":"jid,jid"
         },
-	"OWNER_NUMBER":{
+	"OWNER_NUMBER": {
 	      "description": "owner number"
 		"value": "2347046363976"
 	},
